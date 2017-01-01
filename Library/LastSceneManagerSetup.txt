@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/Level1_UIUC.unity
+  isLoaded: 1
+  isActive: 1

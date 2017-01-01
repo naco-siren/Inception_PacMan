@@ -1,0 +1,20 @@
+# Material file for PacmanLow.obj
+
+newmtl s_pme_a0_cmp4
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd s_pme_a0_cmp4.png
+
+newmtl s_pac_a0_cmp4
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd s_pac_a0_cmp4.png
+

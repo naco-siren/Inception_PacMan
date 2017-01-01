@@ -1,0 +1,12 @@
+# Blender MTL File: 'city-low-poly-EXPORT-ITEMS.blend'
+# Material Count: 1
+
+newmtl houses-01-02-03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Marcio Datafiles\Blender - 3D\Assets\city-low-poly\textures\buildings-houses\houses-01-02-03-base.png

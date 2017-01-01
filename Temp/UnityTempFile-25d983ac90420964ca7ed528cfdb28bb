@@ -1,0 +1,135 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll"
+-r:Assets/ThirdPartyAssets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll
+-r:Assets/ThirdPartyAssets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll
+-r:Assets/ThirdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll
+-r:Assets/ThirdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/Triangle.dll
+-r:Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_4_0
+-define:UNITY_5_4
+-define:UNITY_5
+-define:UNITY_64
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_EDITOR_RETINA
+-define:ENABLE_RETINA_GUISTYLES
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:CROSS_PLATFORM_INPUT
+Assets/Area730/UpdateManager/Editor/SimpleJSON.cs
+Assets/Area730/UpdateManager/Editor/UpdatesWindow.cs
+Assets/OVR/Editor/OVRBuild.cs
+Assets/OVR/Editor/OVRMoonlightLoader.cs
+Assets/OVR/Editor/OVRScreenshotWizard.cs
+"Assets/ThirdPartyAssets/ProCore/ProBuilder/API Examples/Editor/CustomAction.cs"
+"Assets/ThirdPartyAssets/ProCore/ProBuilder/API Examples/Editor/EditorCallbackViewer.cs"
+"Assets/ThirdPartyAssets/ProCore/ProBuilder/API Examples/Editor/RenameNewObjects.cs"
+Assets/ThirdPartyAssets/ProCore/ProBuilder/About/Editor/pb_AboutWindow.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Actions/pb_GenerateUV2.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Geometry/pb_DetachDeleteFace.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Geometry/pb_ExtrudeElement.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Geometry/pb_FlipEdge.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Geometry/pb_FlipNormals.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Geometry/pb_SetPivot.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_CleanLeakedMeshes.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_ForceSceneRefresh.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_RemoveDegenerateTris.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_RepairColors.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_RepairMeshReferences.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_RepairUV.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Repair/pb_ResetEntityMaterials.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Selection/pb_EdgeSelection.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Selection/pb_ExpandSelection.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Selection/pb_InvertSelection.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/MenuItems/Selection/pb_MaterialSelection.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/pb_MenuItems.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/pb_MissingScriptEditor.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/pb_Preferences.cs
+Assets/ThirdPartyAssets/ProCore/ProBuilder/Editor/pb_ScenePostProcessor.cs
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll"

@@ -1,0 +1,22 @@
+# Blender MTL File: 'city-low-poly-EXPORT-ITEMS.blend'
+# Material Count: 2
+
+newmtl concrete
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.686675 0.686675 0.686675
+Ks 0.150000 0.150000 0.150000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Marcio Datafiles\Blender - 3D\Assets\city-low-poly\textures\trees-rocks-logs\median-dirt-barrier-texture.png
+
+newmtl tree-ground-dirt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.149955 0.008494 0.000000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Marcio Datafiles\Blender - 3D\Assets\city-low-poly\textures\trees-rocks-logs\median-dirt-barrier-texture.png
