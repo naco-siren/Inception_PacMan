@@ -5,6 +5,8 @@
 
 It stands out among 51 competitors as one of the best three projects and will be continued as a future project in later semesters for the course [*CS498SL: Virtual Reality*](https://courses.engr.illinois.edu/cs498sl3/gallery.php) at UIUC.
 
+![](https://6pi9og.bn1302.livefilestore.com/y3mtMwWX5nmkhPB01AOpz_6qEgcgTYP3d1F3EARM1O2j5h_BRiYS-w096FfHt4FLbwG4O2_AMhkFlyZs4fvgQDu9BPT7TdoOQUWbIwz0QTRbASkpUbGzNedPjPRhcg5FFcPPl_3hN5IN_gSWtbNG44mfuQjfUOclq34XCCDIHu5a6U?width=3051&height=2800&cropmode=none)
+
 ## Features
 Please refer to our promotion video [here](https://www.youtube.com/watch?v=E0zpH-WiBlM).
 You also need a VR environment to run this game.
