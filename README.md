@@ -7,6 +7,7 @@ It stands out among 51 competitors as one of the best three projects and will be
 
 ## Features
 Please refer to our promotion video [here](https://www.youtube.com/watch?v=E0zpH-WiBlM).
+You also need a VR environment to run this game.
 
 ### Game Control
 * Absolute direction Joystick controller instead of a camera relative one, loyal to the original *Pac-Man*'s game control experience. 
