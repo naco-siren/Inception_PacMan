@@ -3,7 +3,7 @@
 ## Intro
 *Inception: Pac-Man* is a Virtual Reality action game saluting the movie *Inception* and the game *Pac-Man*. 
 
-It stands out among 51 competitors as one of the best three projects and will be continued as a future project in later semesters for the course *CS498SL: Virtual Reality* at UIUC.
+It stands out among 51 competitors as one of the best three projects and will be continued as a future project in later semesters for the course [*CS498SL: Virtual Reality*](https://courses.engr.illinois.edu/cs498sl3/gallery.php) at UIUC.
 
 ## Features
 Please refer to our promotion video [here](https://www.youtube.com/watch?v=E0zpH-WiBlM).
