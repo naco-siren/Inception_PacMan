@@ -23,5 +23,5 @@ You also need a VR environment to run this game.
 * Reincarnates the classic design of Pac-Dots and Power-Pellets: Gamer will win huge bonus if the Pac-Man catches a ghost within the time limit of the Power-Pellet.
 * The map of Level 1 is based on UIUC campus, and Siebel Center owns a special Power-Pellet!
 * Pac-Man can "walk onto" neighbouring perpendicular "horizons".
-* Ghosts' AI is able to envelope Pac-Man from different routes!
+* Ghosts' AI is able to encircle and intercept Pac-Man from different routes!
 
