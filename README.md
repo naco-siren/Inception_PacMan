@@ -11,7 +11,7 @@ It stands out among 51 competitors as one of the best three projects and will be
 Please refer to our [promotion video on YouTube](https://www.youtube.com/watch?v=E0zpH-WiBlM).
 You also need a VR environment to run this game.
 
-![](https://c077na.bn1302.livefilestore.com/y3mJg7RPbiL_n-A7YkidSqWkyt8Fdr14Mas47l_diSq9H2ecfz483nhTox6ZF_NfF31CDbjYuYn_Mu6sBUTws_ozBgCJQ5vbhdndFVsewYYZgr-B-sTuum6BHjJz8CqOaQqI5g8-2EfEbW-F3aDwoEF-9CbKVPZKWleInenhU7WYM0?width=4032&height=3024&cropmode=none)
+![](https://c077na.bn1302.livefilestore.com/y3mUceMotq8q58qU1i9nhGwgbQuchSt4iv9pkb6VeL4Q4kLCG5BwYeoh9SDlYlKU5Ku04-X9q-T1z4NPdz4IQFlYekJVw_1Erh5LkXSZ4Wkv4NV3WC-N6uuXbGFz5hiyOuPFXrjTrdHCkohqQqjB4y21EtrDGpXTgKc6JH_AFim-ZY?width=4032&height=3024&cropmode=none)
 
 ### Game Control
 * Absolute direction Joystick controller instead of a camera relative one, loyal to the original *Pac-Man*'s game control experience. 
