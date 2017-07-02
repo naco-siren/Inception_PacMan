@@ -5,13 +5,13 @@
 
 Endorsed by [*Prof. Steven LaValle*](http://msl.cs.illinois.edu/~lavalle/), it will be continued as a future project in later semesters for the course [*CS498SL: Virtual Reality*](https://courses.engr.illinois.edu/cs498sl3/gallery.php) at UIUC.
 
-![](https://6pi9og.bn1302.livefilestore.com/y3mtMwWX5nmkhPB01AOpz_6qEgcgTYP3d1F3EARM1O2j5h_BRiYS-w096FfHt4FLbwG4O2_AMhkFlyZs4fvgQDu9BPT7TdoOQUWbIwz0QTRbASkpUbGzNedPjPRhcg5FFcPPl_3hN5IN_gSWtbNG44mfuQjfUOclq34XCCDIHu5a6U?width=3051&height=2800&cropmode=none)
+![](https://o3tjog.bn1302.livefilestore.com/y4m8MFX2230CjlYY3mOpnfpjoC0zShEZXm12snBZ5LRFn3RsYbYjsyBwJ_OFIjLd7NN2uqf6uLuK-P1bOpB1IXP2AXGODKI05-RzaX0M1E_-Fqc-nAWhwPhUCiRwkbIONH0u3jqRVOeo7sKZzAfQGMZTHWMEFIwfZQlk9s6qx3PqXKdiPE5mT4sR_OGvk_zVogMRu8AHn6UaEgNVwyTMKjkIg?width=1024&height=940&cropmode=none)
 
 ## Features
 Please refer to our [promotion video on YouTube](https://www.youtube.com/watch?v=E0zpH-WiBlM).
 You also need a VR environment to run this game.
 
-![](https://c077na.bn1302.livefilestore.com/y3mUceMotq8q58qU1i9nhGwgbQuchSt4iv9pkb6VeL4Q4kLCG5BwYeoh9SDlYlKU5Ku04-X9q-T1z4NPdz4IQFlYekJVw_1Erh5LkXSZ4Wkv4NV3WC-N6uuXbGFz5hiyOuPFXrjTrdHCkohqQqjB4y21EtrDGpXTgKc6JH_AFim-ZY?width=4032&height=3024&cropmode=none)
+![](https://c077na.bn1302.livefilestore.com/y4mUceMotq8q58qU1i9nhGwgVPveRfdZuEonN_dyJkiCrWYm_edO1Ujj6_4T-CsfVvkKFOGgOhbMVbsxZX3WHtbdAOZdnjvYTc01I7Qb2gTtqYdcy6YQdewhGPovAcomoM39KIHdK16mi8uaOtflbiA8h-K5ZB7yQQv8wkXw-Yd4piI6etoJHJHCaJlXjq4nAR-Wfua6Ql4F-VwNpj_r8q0sg?width=1024&height=768&cropmode=none)
 
 ### Game Control
 * Absolute direction Joystick controller instead of a camera relative one, loyal to the original *Pac-Man*'s game control experience. 
